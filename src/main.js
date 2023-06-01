@@ -4,8 +4,8 @@ const x = localStorage.getItem('x')
 const xObject = JSON.parse(x)
 
 window.hashMap = xObject || [
-    { logo: 'A', url: 'https://www.acfun.cn' },
-    { logo: 'B', url: 'https://www.bilibili.com' },
+    { logo: 'X', url: 'https://xiedaimala.com' },
+    { logo: 'G', url: 'https://github.com/' },
 ]
 const simplifyUrl = (url) => {
     return url.replace('https://', '')

@@ -135,6 +135,7 @@ body {
 .siteList .site>.link {
     font-size: 14px;
     margin-top: 4px;
+    line-height: 16px;
 
 }
 
@@ -167,8 +168,10 @@ body {
     height: 64px;
 }
 
+
 .siteList .addButton .text {
     font-size: 14px;
+    line-height: 16px;
     margin-top: 4px;
 }
 

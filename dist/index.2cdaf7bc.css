@@ -125,6 +125,7 @@ body {
 .siteList .site > .link {
   margin-top: 4px;
   font-size: 14px;
+  line-height: 16px;
 }
 
 .siteList .site > .close {
@@ -159,6 +160,7 @@ body {
 .siteList .addButton .text {
   margin-top: 4px;
   font-size: 14px;
+  line-height: 16px;
 }
 
 .siteList .addButton .icon-wrapper {

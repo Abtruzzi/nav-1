@@ -1,15 +1,16 @@
-14
+15
 42C:\Users\csxie\Jirengu\nav-1\src\style.css133300485633136671 0
-33C:\Users\csxie\Jirengu\nav-1\dist133300513540410051 1
+33C:\Users\csxie\Jirengu\nav-1\dist133300556068689371 1
+39C:\Users\csxie\Jirengu\nav-1\.gitignore133300542141694433 0
 39C:\Users\csxie\Jirengu\nav-1\src\images133298023915473779 1
-32C:\Users\csxie\Jirengu\nav-1\src133298023817995889 1
-52C:\Users\csxie\Jirengu\nav-1\dist\index.2cdaf7bc.css133300513538360782 0
-56C:\Users\csxie\Jirengu\nav-1\dist\index.2cdaf7bc.css.map133300513538380809 0
+32C:\Users\csxie\Jirengu\nav-1\src133300537542096023 1
+56C:\Users\csxie\Jirengu\nav-1\dist\index.2cdaf7bc.css.map133300556068533099 0
 43C:\Users\csxie\Jirengu\nav-1\src\index.html133299782427489712 0
-40C:\Users\csxie\Jirengu\nav-1\src\main.js133300500678010988 0
+40C:\Users\csxie\Jirengu\nav-1\src\main.js133300554655420534 0
 52C:\Users\csxie\Jirengu\nav-1\src\images\bilibili.jpg133296347685598017 0
-51C:\Users\csxie\Jirengu\nav-1\dist\index.de158e3a.js133300513540370131 0
-55C:\Users\csxie\Jirengu\nav-1\dist\index.de158e3a.js.map133300513540400059 0
-44C:\Users\csxie\Jirengu\nav-1\dist\index.html133300513540380053 0
-51C:\Users\csxie\Jirengu\nav-1\dist\nav-1.59712999.js133300513540380053 0
-55C:\Users\csxie\Jirengu\nav-1\dist\nav-1.59712999.js.map133300513540400059 0
+52C:\Users\csxie\Jirengu\nav-1\dist\index.2cdaf7bc.css133300556068533099 0
+51C:\Users\csxie\Jirengu\nav-1\dist\index.de158e3a.js133300556068689371 0
+55C:\Users\csxie\Jirengu\nav-1\dist\index.de158e3a.js.map133300556068689371 0
+44C:\Users\csxie\Jirengu\nav-1\dist\index.html133300556068533099 0
+51C:\Users\csxie\Jirengu\nav-1\dist\nav-1.59712999.js133300556068533099 0
+55C:\Users\csxie\Jirengu\nav-1\dist\nav-1.59712999.js.map133300556068533099 0
